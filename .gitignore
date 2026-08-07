@@ -1,0 +1,31 @@
+# --- Segredos / configuração local ---
+.env
+
+# --- Dados de alunos reais e resultados gerados em uso real ---
+# Ao usar o projeto de verdade, alunos.txt passa a conter dados reais de
+# alunos (nome, e-mail, nota). Para evitar publicar esses dados por
+# engano, descomente a linha abaixo em um fork/uso real do projeto:
+# alunos.txt
+
+formularios_gerados/
+provas_corrigidas/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# --- Ambientes / editores ---
+.vscode/
+.idea/
+*.swp
+
+# --- Sistema operacional ---
+.DS_Store
+Thumbs.db

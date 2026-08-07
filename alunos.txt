@@ -1,0 +1,5 @@
+id,nome,email,nota
+1001,Aluno Exemplo Um,aluno1.exemplo@email.com,
+1002,Aluno Exemplo Dois,aluno2.exemplo@email.com,
+1003,Aluno Exemplo Tres,aluno3.exemplo@email.com,
+1004,Aluno Exemplo Quatro,aluno4.exemplo@email.com,
